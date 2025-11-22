@@ -1,4 +1,4 @@
-# Discover Unneccessary Ports
+# Discover Unnecessary Ports
 Use Nmap to discover unnecessary open ports on ACIDM01 and then close those ports using the Windows Defender Firewall
 ## Learning Outcome ##
 - Discover unnecessary open ports
